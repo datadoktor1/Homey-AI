@@ -1,4 +1,4 @@
-# Programming Homey from Cursor, Antigravity or any AI IDE
+# Programming Homey from Cursor, Antigravity or another AI IDE
 
 This guide shows how to control an [Athom Homey](https://homey.app) smart-home hub
 from your computer using an IDE such as [Cursor](https://cursor.com), Antigravity or VS Code. You write automation logic as **HomeyScript** (JavaScript that runs on the
