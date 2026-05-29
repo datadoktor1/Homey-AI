@@ -1,0 +1,15 @@
+# Secrets / local config - never commit these
+config.py
+api.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
