@@ -1,4 +1,4 @@
-# homey-ai
+# Homey-AI
 
 Program and control an [Athom Homey](https://homey.app) smart-home hub from your IDE. Automation
 logic is written as **HomeyScript** (JavaScript that runs on the hub) and deployed
