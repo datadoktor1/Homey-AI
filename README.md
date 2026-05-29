@@ -8,6 +8,7 @@ with a small Python toolkit over Homey's local REST API.
 
 <img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/7b4eb13c-029e-47a4-a8bd-d1d7f9a4da61" />
 
+<img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/3708e881-b0b9-49a8-bf57-f04b1345c8c6" />
 
 ## Quickstart
 
