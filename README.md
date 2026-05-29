@@ -6,7 +6,7 @@ with a small Python toolkit over Homey's local REST API.
 
 <img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/4743880c-f2c9-4fbe-afe8-796ba52454f7" />
 
-<img width="764" height="516" alt="image" src="https://github.com/user-attachments/assets/7b4eb13c-029e-47a4-a8bd-d1d7f9a4da61" />
+<img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/7b4eb13c-029e-47a4-a8bd-d1d7f9a4da61" />
 
 
 ## Quickstart
