@@ -20,12 +20,12 @@ And you can control devices directly:
 
 “Turn on Light1.”
 
-The trick is to have the AI create flows for the device, that calls a HomeyScript that does all the work:
+The trick is to have the AI create flows for the device, that calls a HomeyScript that does all the work:<br>
 <img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/7b4eb13c-029e-47a4-a8bd-d1d7f9a4da61" />
 
 <img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/4743880c-f2c9-4fbe-afe8-796ba52454f7" />
 
-And most importantly, a global script that runs every minute to trigger timers:
+And most importantly, a global script that runs every minute to trigger timers:<br>
 <img width="385" height="259" alt="image" src="https://github.com/user-attachments/assets/3708e881-b0b9-49a8-bf57-f04b1345c8c6" />
 
 ## Quickstart
